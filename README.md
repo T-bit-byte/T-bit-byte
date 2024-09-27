@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Tanya or @T-bit-byte
 - 👀 I’m interested in Computer vision projects
-- 🌱 I’m currently learning different model architectures
+- 🌱 I’m currently learning different CV model architectures like ResNET, GoogLenet, VGG16, etc.
 - 💞️ I’m looking to collaborate on the same
 - 📫 How to reach me <mlwithtanya@gmail.com> or <tanyakoranga1208@gmail.com>
-- 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a passionate learner who also experiences anxiety.
 
 <!---
