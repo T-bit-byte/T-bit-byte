@@ -12,6 +12,7 @@
 <p align="left">
 </p>
 
+<h3 align="left">Languages and Tools:</h3
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/>
