@@ -30,7 +30,7 @@
     <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="40" height="40"/>
+    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="60" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
