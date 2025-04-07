@@ -27,7 +27,7 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/source/_static/pandas.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="40" height="40"/>
@@ -41,6 +41,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
